@@ -1,2 +1,2 @@
 # Autopilot
-# 一个简单的深度学习训练
+# a easy deep-learning training
